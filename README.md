@@ -1,1 +1,0 @@
-# Attemp-to-use-Neural-Network-for-Burgers-Equation
